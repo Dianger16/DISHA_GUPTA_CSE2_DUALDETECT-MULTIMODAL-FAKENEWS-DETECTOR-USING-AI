@@ -17,7 +17,7 @@ Frontend:HTML for structuring the web page.CSS for styling.
 JavaScript for handling user interactions and sending data to the backend.
 Backend:PythonFlask: A web framework for handling API requests.TensorFlow/Keras: For the image analysis model.
 Scikit-learn: For the text analysis model.PIL (Pillow): For image processing.Tools:Git: For version control.A Text Editor (VS Code, Sublime Text, etc.)
-Conda or venv (recommended): For creating virtual environments.Steps to Run the Project:Clone the repository:git clone https://github.com/your-repo/your-project-name
+Conda or venv (recommended): For creating virtual environments.Steps to Run the Project:Clone the repository:git clone https:https://github.com/Dianger16/DISHA_GUPTA_CSE2_DUALDETECT-MULTIMODAL-FAKENEWS-DETECTOR-USING-AI
 cd your-project-name
 
 Install backend dependencies:pip install -r requirements.txt
