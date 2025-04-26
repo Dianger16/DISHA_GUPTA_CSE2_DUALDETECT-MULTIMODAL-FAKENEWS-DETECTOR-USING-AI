@@ -12,6 +12,8 @@ A web-based application that detects fake news by analyzing both **text** and **
 
 VIDEO LINK : https://drive.google.com/file/d/1p7X-o1h_psfDJQSU9rmS4jm1WGYAVzut/view?usp=drive_link
 
+PROJECT REPORT LINK : https://drive.google.com/file/d/1Wdqz9IlOmkChOxWt9fNLB7yk9ZaBXuY_/view?usp=drive_link
+
 TECH USED AND STEPS TO RUN THE PROJECT:-
 Frontend:HTML for structuring the web page.CSS for styling.
 JavaScript for handling user interactions and sending data to the backend.
