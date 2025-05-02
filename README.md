@@ -27,7 +27,7 @@ Download/Set up the models:Ensure that the text model (text_model.h5), the image
 If you have trained your own models, place them in the correct directory.
   If you need sample models, you may need to download them from a separate location or generate them.
 Run the Flask backend:python app.py
-The backend server will start running at http://0.0.0.0:5000.Open the frontend:Open the index.html file in your browser.
+The backend server will starts running .Open the frontend:Open the index.html file in your browser.
 Use the application:The "Fake News Detector" web application should now be running in your browser.
 Enter the text of a news article, upload an image, and click "Detect Fake News".The results will be displayed on the page.
 
